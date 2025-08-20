@@ -58,7 +58,8 @@ public class Rotate : MonoBehaviour
 }
 ```
 ## Output:
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/31e9ab29-520b-46f0-9a8e-32781dbcbb24" />
+<img width="1341" height="869" alt="image" src="https://github.com/user-attachments/assets/8d4a345a-2678-41f4-8d60-36d0f2a9e225" />
+
 
 
 ## Result:
